@@ -1,1 +1,1 @@
-Distrubted FS using git and IPFS
+Distrubted FS using git and IPNS
